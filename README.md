@@ -47,7 +47,7 @@ sudo ufw allow 3000
 
 ```sh
 # rues yazan yere bir kullanıcı ismi verin
-USER=rues
+USER=arn
 
 sudo mkdir -p /home/$USER/.ssh
 sudo touch /home/$USER/.ssh/authorized_keys
